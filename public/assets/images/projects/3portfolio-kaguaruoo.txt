@@ -1,0 +1,22 @@
+Tokyo Furnished Apartments - KaguAruoo
+
+
+
+About the project
+
+Tokyo Furnished Apartment. No key money. No agent fee. No guarantor. Pay monthly by credit card. 100% online and in English.
+- - - built with Ruby on Rails - - -
+
+KaguAruoo Blog is then supported by WordPress.
+
+URL: https://www.kaguaruoo.com/
+
+
+
+SKILLS
+
+JavaScript
+eCommerce
+PostgreSQL
+Ruby
+Web Development

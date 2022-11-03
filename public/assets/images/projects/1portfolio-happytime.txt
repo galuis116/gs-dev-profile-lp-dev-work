@@ -1,0 +1,20 @@
+Happy Time - Ionic React
+
+
+
+About the project
+
+"Happy Time" helps you by providing gifts for your occasions Birthdays reception - Melcha
+a - Graduation - Hajj ), soap, Candles
+
+Enjoy Happy Time!
+
+
+
+SKILLS
+
+eCommerce
+React.js
+Frontend Development
+Google Firebase
+Figma

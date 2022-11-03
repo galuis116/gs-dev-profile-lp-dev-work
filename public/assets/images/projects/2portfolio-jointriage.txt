@@ -1,0 +1,16 @@
+Medical Care App by React Native
+
+
+
+About the project
+
+The “JoinTriage” app helps paramedics and EMTs quickly and accurately triage patients, ensuring that they receive the care they need as quickly as possible.
+
+
+
+SKILLS
+
+React.js
+Frontend Development
+Google Firebase
+Figma

@@ -1,0 +1,20 @@
+Brand Specialists since 1980 - pinpoint.promo !!!
+
+
+
+About the project
+
+I'm so proud of my career as a maintenance employee for Pinpoint which is a famous UK's leading trade only supplier.
+The website is built with Laravel, and I did my best to accomplish the task.
+
+URL: https://pinpoint.promo/
+
+
+
+SKILLS
+
+JavaScript
+eCommerce
+PHP
+MySQL
+Laravel

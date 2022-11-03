@@ -1,0 +1,21 @@
+Website - Medical Tourism Italy
+
+
+
+About the project
+
+``` slogan
+Personalized Healthcare.
+THE FUTURE OF MEDICAL CARE
+```
+Medical care Website built with WordPress
+URL: https://www.medicaltourismitaly.com/
+
+
+
+SKILLS
+
+JavaScript
+PHP
+SEO
+WordPress
